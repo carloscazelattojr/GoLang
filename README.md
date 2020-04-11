@@ -13,7 +13,26 @@ go run .
 
 Pastas de fontes: 
 - Fundamentos
+    - Comandos
+    - Constantes e variáveis
+    - Conversões
+    - funções (basicas)
+    - Operações Aritiméticas
+    - Operações de Atribuições
+    - Operações Lógicos
+    - Operações Relacionais
+    - Operações Ternários (Não tem no GO)
+    - Operações Unários
+    - Ponteiros
+    - Primeiro Exemplo
+    - Prints
+    - Tipos de variáveis
+    - Zeros
+
 - Estruturas de Controle
+    - If/Else e If/init
+    - For (Não existe while)
+    - Switch
 
 
 
