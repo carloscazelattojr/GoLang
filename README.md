@@ -1,10 +1,10 @@
 # GoLang
-Repositório como os resultado de estudos na Linguagem GoLang.
+Repositório como os resultados/fontes de estudos na Linguagem GoLang.
 
 Instalação/Execução no VSCode:
 - Instalar o pacote GO (microsoft) e depois ele irá solicitar para instalar os demais pacotes.(sim para todos.)
 - Ctrl+Alt+n = Compilar no VSCode
-- Ctrl+Alt+M = Parar execução no VSCode
+- Ctrl+Alt+m = Parar execução no VSCode
 
 no prompt: 
 na pasta onde está seu arquivo .go, execute o comando.:
@@ -33,6 +33,14 @@ Pastas de fontes:
     - If/Else e If/init
     - For (Não existe while)
     - Switch
+
+- Arrays
+    - Array
+    - For Range
+    - Slice
+    - Slice Make
+    - Append Copy
+    - Map
 
 
 
