@@ -55,4 +55,10 @@ Pastas de fontes:
     - Ponteiros em funções
     - Função Init
 
-
+- Tipos
+    - Structs
+    - Struct Aninhada
+    - Métodos
+    - Pseudo Herança
+    - Personalizados
+    - Interfaces
