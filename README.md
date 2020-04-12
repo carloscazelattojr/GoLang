@@ -42,5 +42,12 @@ Pastas de fontes:
     - Append Copy
     - Map
 
+- Funções
+    - Básicas
+    - Pilha (Stack)
+    - Retorno nomeado (Retorno limpo)
+    - Função em Váriavel (Função Anonima)
+    - Função como Parâmetro
+    - Funções Variáticas
 
 
