@@ -49,5 +49,10 @@ Pastas de fontes:
     - Função em Váriavel (Função Anonima)
     - Função como Parâmetro
     - Funções Variáticas
+    - Closure
+    - Recursividade
+    - Defer
+    - Ponteiros em funções
+    - Função Init
 
 
