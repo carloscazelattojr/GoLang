@@ -62,3 +62,20 @@ Pastas de fontes:
     - Pseudo Herança
     - Personalizados
     - Interfaces
+    - JSON
+
+- Pacotes
+    - Reta ( utilizando o comando go run .)
+
+- Banco de Dados
+    - MySql (Sql)
+        - Create (Create e Drop)
+        - Insert
+        - Transação
+        - Update e Delete
+        - Select
+
+- Http
+    - Static (servidor estático) OBS: para funcionar vc precisará utilizar no prompt>> go run .
+    - Dinamico
+    - ServerDB (Rest + DB)
