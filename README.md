@@ -8,8 +8,15 @@ Instalação/Execução no VSCode:
 
 no prompt: 
 na pasta onde está seu arquivo .go, execute o comando.:
+Execução:
 go run *.go    ou
 go run .
+
+Para testes:
+go test      ou 
+go test ./...
+
+
 
 Pastas de fontes: 
 - Fundamentos
@@ -79,3 +86,8 @@ Pastas de fontes:
     - Static (servidor estático) OBS: para funcionar vc precisará utilizar no prompt>> go run .
     - Dinamico
     - ServerDB (Rest + DB)
+
+- Testes Unitários
+    - Simples Teste
+    - Dataset para Teste
+ 
