@@ -17,9 +17,9 @@ go test      ou
 go test ./...
 
 
-Conferir variáveis de ambiente:
-go env
-go env VARIAVEL (onde VARIAVEL pode ser qualquer um do GO, ex: GOPATH ou GOROOT)
+Para verificar variáveis de ambiente:
+go env      ou 
+go env GOPATH
 
 
 Pastas de fontes: 
