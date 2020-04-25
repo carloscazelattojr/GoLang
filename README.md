@@ -17,6 +17,10 @@ go test      ou
 go test ./...
 
 
+Conferir variáveis de ambiente:
+go env
+go env VARIAVEL (onde VARIAVEL pode ser qualquer um do GO, ex: GOPATH ou GOROOT)
+
 
 Pastas de fontes: 
 - Fundamentos
